@@ -12,3 +12,7 @@ This bar chart compares the amount of flight cancellations for each airline. It 
 
 A line graph is used to determine which months have the most flight cancellations per airline. Month 2 (February) shows American Eagle Airlines having the most cancellations with a total of 203. I chose a line graph for this insight to display the trend in the number of cancellations from month to month. The colors were chosen to determine which line belongs to a specific airline making it easier for viewers to differentiate between them.
 
+### Insight 3
+<li> (<a href="https://public.tableau.com/app/profile/bobbi.gaines/viz/AirlineCancellationsbyAirport_16967875545260/AirlineCancellationsbyAirport?publish=yes">Link to Worksheet 3</a>)</li>
+
+https://public.tableau.com/app/profile/bobbi.gaines/viz/AirlineCancellationsbyAirport_16967875545260/AirlineCancellationsbyAirport?publish=yes
