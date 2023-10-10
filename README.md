@@ -15,4 +15,9 @@ A line graph is used to determine which months have the most flight cancellation
 ### Insight 3
 <li> (<a href="https://public.tableau.com/app/profile/bobbi.gaines/viz/AirlineCancellationsbyAirport_16967875545260/AirlineCancellationsbyAirport?publish=yes">Link to Worksheet 3</a>)</li>
 
-https://public.tableau.com/app/profile/bobbi.gaines/viz/AirlineCancellationsbyAirport_16967875545260/AirlineCancellationsbyAirport?publish=yes
+A bubble chart is used to display airline cancellations by origin airport. The size of the bubbles, ranging from large to small, represent the number of cancellations and the colors represent the airline. I used the same color scheme as the line graph to maintain consistency in determining which airline is being viewed. The larger bubbles display the highest amount of cancellations per airline while the smaller bubbles display the least.
+
+### Insight 4
+<li> (<a href="https://public.tableau.com/app/profile/bobbi.gaines/viz/AirlineCancellations-Dashboard/Dashboard1">Link to Interactive Dashboard</a>)</li>
+
+This interactive dashboard allows viewers to select the airline name to showcase which airlines have the most cancellations overall, which have the most cancellations by month, and which airlines have the most cancellations by origin airport.
